@@ -1,0 +1,86 @@
+{
+    "Header": {
+
+        "title": "آمنة لرعاية المرأة و الطفل",
+        "paragraph": "خدمه ورعايه متكامله مع نخبه من اطباء النساء والتوليد"
+
+    },
+    "About": {
+        "paragraph": "هي مستشفى متخصصة في طب أمراض النساء والولادة. كما تعمل المستشفى على تقديم أرقى الخدمات الطبية الفندقية للمريضات. كذلك فإن المستشفى توفر غرف خاصة وأجنحة ما بعد الولادة وذلك حتى يتم توفير كافة سبل الراحة والأمان للمريضات.",
+        "Why": [
+            
+        ],
+        "Why2": [
+            "فريق من الأطباء فى خدمتك",
+            "أرقى مستوى للخدمات الطبية",
+            "خدمة 24 ساعة"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "وحدة التوليد",
+            "text": "الاستشارات للمُقبلين على الزواج بما فى ذلك ما يختص بأمراض الوراثة \n\n.الكشف عن الحمل ومتابعة ما قبل الولادة  \n\nالكشف عن حالات الحمل العالية الخطورة  \n\n الكشف عن التشوهات الخلقية للجنين فى الرحم والتصرف تبعاً لذلك  \n\n عملية الولادة مع اتخاذ أسلم التدابير بما فى ذلك الترتيبات مع الرعاية المركزة وبنك الدم  \n\n الولادة بأقل ألم أثناء الولادة نفسها وأثناء المتابعة والرعاية بعد الولادة \n\n توفير أفضل وسائل منع الحمل للأزواج"
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "جراحة بالمنظار",
+            "text": "تستخدم جميع أنواع المناظير والتداخلات بالمنظار لفحص باطن الرحم للتشخيص والعلاج  "
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "وحدة علاج العقم  ",
+            "text": "توفر الوحدة للأزواج الذين يعانون من تأخر الإنجاب جميع ما يلزم من فحوصات وإجراءات لمعرفة سبب تأخر الإنجاب ثم تبدأ فى إعدادهم لخدمات الحقن المجهرى.  "
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "وحدة الرعاية الصحية فى فترة انقطاع الطمث            ",
+            "text": "لجميع مشاكل انقطاع الطمث"
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/1.jpg",
+            "text": "\"ان شاء الله مكان متميز وناجح فيه مجموعه من أفضل أطباء النساء والولاده ف مصر بالتوفيق والنجاح \"",
+            "name": "Ahmed Sorour Al Nagar"
+        },
+        {
+            "img": "img/testimonials/2.jpg",
+            "text": "\"آمنه = ولاده آمنه وسهله        , آمنه = علي اسم أم نبينا محمد خير البشر\"",
+            "name": " Muhammed Ismaiel"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/DrAhmedSaber.jpg",
+            "name": "Ahmed Saber",
+            "job": "Director - Consultant of Reproductive Medicine & surgery"
+        }
+    ],
+    "Contact": {
+        "address": "كورنيش النيل , بعد كوبرى الفحص , بنها , القليوبية",
+        "phone": "+02 01555558542",
+        "email": "aminah.amcc@gmail.com",
+        "facebook": "https://www.facebook.com/Aminah.AMCC/"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
